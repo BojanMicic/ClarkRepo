@@ -1,0 +1,7 @@
+<suite name="ClarkSuite" verbose="1" >
+  <test name="RegressionTests">
+    <classes>
+      <class name="test.clark.CreateAccountTest"/>
+    </classes>
+  </test>
+</suite>

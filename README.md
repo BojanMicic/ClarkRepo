@@ -1,12 +1,16 @@
-Technology stack used for this project:
-Java, Maven, Selenium, TestNG
+## Technology stack used for this project:
+- Java, Maven, Selenium, TestNG
+- Page Object Model
 
-In this project page object model is used
 
+## How to run tests
 
 Add this environment variable to your machine:
 CLARK_PASSWORD={your password for the app}
 
 
 Run tests using Maven:
-$ mvn clean test -DsuiteXmlFile=testng.xml
+```bash
+mvn clean test -DsuiteXmlFile=testng.xml
+```
+

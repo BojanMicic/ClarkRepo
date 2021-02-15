@@ -14,3 +14,7 @@ Run tests using Maven:
 mvn clean test -DsuiteXmlFile=testng.xml
 ```
 
+## To be improved
+- Add html reporting
+- Add screenshots on fail
+- Improve reusability
